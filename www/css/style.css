@@ -1,0 +1,44 @@
+body {
+    background-image: url(https://th.bing.com/th/id/OIP.ekx6HIvXEgddNxGe8Qa0SgAAAA?rs=1&pid=ImgDetMain);
+    margin: 0;
+    padding: 10px;
+    background-color: rgb(248, 242, 242);
+    font-family: 'Helvetica';
+}
+
+.container {
+	width: 100%;
+	padding-top: 100px; 
+}
+
+.coluna {
+    width: 80%;
+    height: 400px;
+   background-color: cadetblue;
+    margin: 0 auto;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+
+.coluna label {
+	display: block;
+	margin: 10px 10%; 
+}
+
+.coluna button {
+    font-family:'Times New Roman', Times, serif;
+	display: block;
+	margin: 10px 10%;
+	width: 80%;
+	background: rgb(5, 100, 64);
+	color: rgb(5, 145, 114);
+	font-size: 20px;
+}
+
+.coluna input {
+	width: 80%;
+	margin-left: 10%;
+	height: 30px;
+	font-size: 25px;
+	border-radius: 20px; 
+}
